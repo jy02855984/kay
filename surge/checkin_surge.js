@@ -9,11 +9,12 @@ http-request https:\/\/weibo\.com\/p\/aj\/general\/button\?ajwvr=6&api=http:\/\/
 MITM = weibo.com
 */
 const accounts = [
-    // ["洛杉矶湖人", "1008086b6c0f3a7a95b611faf01fe5a32e85b8"],
-    // ["Apple", "1008089f6290f4436e5a2351f12e03b6433c3c"],
-    // ["浦江", "1008085d903ed20b32d94c3d75fab36ab2fb1e"],
-    // ["tiger谭秋娟", "1008085ab844c4b99c1bb14a745a8dc2802cd4"],
-    // ["田馥甄", "1008084b49ae2340f76f6b91d36b17958d703e"]]
+    ["洛杉矶湖人", "1008086b6c0f3a7a95b611faf01fe5a32e85b8"],
+    ["Apple", "1008089f6290f4436e5a2351f12e03b6433c3c"],
+    ["浦江", "1008085d903ed20b32d94c3d75fab36ab2fb1e"],
+    ["tiger谭秋娟", "1008085ab844c4b99c1bb14a745a8dc2802cd4"],
+    ["田馥甄", "1008084b49ae2340f76f6b91d36b17958d703e"]
+]
 async function launch() {
     for (var i in accounts) {
         let name = accounts[i][0]
