@@ -18,7 +18,7 @@ const DeleteCookieAll = false; // 清除所有
 const DeleteCookieOne = false; // 清除账户一
 const DeleteCookieTwo = false; // 清除账户二
 
-const debug = false; // 开启debug模式,每次脚本执行会显示通知,默认false
+const debug = true; // 开启debug模式,每次脚本执行会显示通知,默认false
 
 const bind = true; // 绑定作者邀请码,默认true,可更改为false
 
