@@ -1,0 +1,22 @@
+{
+  "id": "zhouxiao.app.sub",
+  "name": "zhouxiao应用订阅",
+  "author": "@zhou_xiao",
+  "icon": "http://img0.imgtn.bdimg.com/it/u=1891653603,3133285999&fm=11&gp=0.jpg",
+  "repo": "https://github.com/jy02855984/kay/",
+  "apps": [
+    {
+      "id": "qktx",
+      "name": "趣看天下",
+      "keys": ["qktx_urlckname", "qktx_ridname", "qktx_frboxurlname", "qktx_taskboxurlname", "qktx_username"],
+      "author": "@作者不知道",
+      "repo": "https://github.com/",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/box.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/box.png"
+      ]
+    }
+    
+   
+  ]
+}
