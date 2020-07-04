@@ -8,7 +8,7 @@
     {
       "id": "qktx",
       "name": "趣看天下",
-      "keys": ["qktx_urlckname", "qktx_ridname", "qktx_frboxurlname", "qktx_taskboxurlname", "qktx_username"],
+      "keys": ["qktx_urlcknameA", "qktx_ridnameA", "qktx_frboxurlnameA", "qktx_taskboxurlnameA", "qktx_usernameA"],
       "author": "@作者不知道",
       "repo": "https://github.com/",
       "icons": [
